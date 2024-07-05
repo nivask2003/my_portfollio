@@ -1,0 +1,77 @@
+header{
+    background-color: darkmagenta;
+}
+header .navbar{
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+}
+header .navbar .nav-item .nav-link{
+    color: white;
+    border-radius: 20px;
+}
+header .navbar .nav-item .nav-link:hover{
+    color:darkmagenta;
+    background-color: white;
+    border-radius: 20px;
+}
+header .row .col-md-6 h1{
+    font-weight: bold;
+    font-size: 80px;
+    color: white;
+}
+header .row .col-md-6 h3{
+    text-decoration: underline;
+    color: white;
+}
+header .row .col-md-6 .page_title{
+    color: white;
+    font-size: 50px;
+}
+.projectpage{
+    height: 550px;
+}
+.row .col-md-5{
+    text-align: center;
+}
+.row .col-md-5 img{
+    width: 50%;
+}
+video{
+    width: 50%;
+}
+main h2{
+    color: darkmagenta;
+}
+main h4{
+    color: darkmagenta;
+}
+main small{
+    font-size: x-large;
+}
+.aboutme .row .col-md-6{
+    width: 500px;
+}
+.aboutme .row .col-md-6 img{
+    width: 500px;
+}
+.contactme .row .col-md-6 img{
+    width: 500px;
+}
+.contactme .row .col-md-6 ul li p{
+    text-indent: 0cm;
+}
+main p b{
+    color: darkmagenta;
+
+}
+main p{
+    text-indent: 2cm;
+    font-size: large;
+}
+footer{
+    background-color: darkmagenta;
+}
+footer p{
+    color: white;
+}
